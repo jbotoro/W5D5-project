@@ -1,0 +1,31 @@
+
+
+
+html, body,section,article,h1,h2,p {
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  font: inherit;
+}
+
+ul, ol {
+
+  list-style: armenian
+
+
+
+
+}
+
+ol {
+  list-style: armenian
+}
+
+body {
+
+line-height: 1.5
+
+}
+
+
